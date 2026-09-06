@@ -1,0 +1,214 @@
+{
+  "conversation": [
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഹലോ ഹലോ ഉത്തിയറിയാം സാർ ഞാൻ തനുഷ് ആയിരുന്നു എച്ച്ഡിഎഫ്സി ബാങ്കിൽ നിന്ന് ഓർക്കുന്നുണ്ടോ?",
+      "english": "Hello, hello, do you remember me sir? I was Tanush from HDFC Bank, do you remember?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "എച്ച്ഡിഎഫ്സി ആ?",
+      "english": "HDFC, yes?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ മറ്റേ സാറിനോട് ലോണിന്റെ കേസ് പറഞ്ഞിട്ടുണ്ടായിരുന്നു ആക്സിസ് ബാങ്കിൽ അപ്ലൈ ചെയ്തിട്ടുണ്ട് ഇൻട്രസ്റ്റ് ഒക്കെ ഇട്ട് പറയാം എന്ന് പറഞ്ഞിരുന്നത്.",
+      "english": "Yes, I had talked to you sir about the loan case. You mentioned you applied at Axis Bank and would let me know after checking the interest rate."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ആ ആ",
+      "english": "Yeah, yeah."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഞാൻ അതൊന്ന് ചെക്ക് ചെയ്യാൻ വിളിച്ചിരുന്ന നമ്മൾ ഇൻട്രസ്റ്റ് പറഞ്ഞായിരുന്നോ അവർ എത്രയാണെന്ന് പറഞ്ഞായിരുന്നോ?",
+      "english": "I called to check on that. Did they tell you what the interest rate was?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഇല്ല ഞാൻ ഇപ്പോഴേ ഈ ആക്സിസ് ബാങ്കിൽ കൊടുത്തു.",
+      "english": "No, I just submitted it to Axis Bank now."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ ആക്സിസ് ബാങ്കിൽ കൊടുത്ത കാര്യം സാർ എന്നോട് പറഞ്ഞിരുന്നു അപ്പൊ അവർ ഇൻട്രസ്റ്റ് കൂടുതലാണെന്നുണ്ടെങ്കിൽ നമുക്ക് നോക്കാം എന്ന് പറഞ്ഞിട്ടുണ്ടായിരുന്നു ഓർക്കുന്നുണ്ടോ?",
+      "english": "Yes, you had told me about giving it to Axis Bank. Then you mentioned if their interest rate is high, we could check. Do you remember?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ആ ആ ആ ഞാൻ ഒന്ന് ചോദിച്ചു ഡോക്യുമെന്റ്സ് കൊടുത്തിട്ട് പിന്നെ വിളിച്ചിട്ടില്ല. ഞാൻ വിളിച്ചിട്ട് ഒന്ന് പറയട്ടെ ഇൻട്രസ്റ്റ് റേറ്റ് അല്ലേ?",
+      "english": "Yeah, yeah, yeah. I gave the documents and haven't called them after that. Let me call and tell you about the interest rate, right?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ ഇൻട്രസ്റ്റ് എന്ന് വെച്ചാൽ നമ്മുടെ കുറവാണ് അത് നമുക്ക് നല്ലൊരു ഇൻട്രസ്റ്റ് സാർ തരാൻ പറ്റും സോ അവർക്ക് നമ്മളെക്കാളും കുറവാണ് തരണമെന്നുണ്ടെങ്കിൽ ഞാൻ പിന്നെ സാറിനെ വിളിച്ചിട്ട് ശല്യപ്പെടുത്തൂല പക്ഷേ ഇപ്പോൾ നമുക്ക് അവർക്ക് സാർ കൂടുതൽ ആണെന്നുണ്ടെങ്കിൽ അതി കുറവ് എനിക്ക് തരാൻ പറ്റുമെന്നുണ്ടെങ്കിൽ സാർ എന്റെ അടുത്തേക്ക് വരുന്നതല്ലേ ബെറ്റർ ഞാൻ അതുകൊണ്ട് പറഞ്ഞതാ കേട്ടോ വേറെ ഒന്നുമല്ല.",
+      "english": "Yes, our interest rate is lower, we can give you a good interest rate sir. So if they offer lower than us, I won't bother you by calling again. But if their rate is higher and I can give you a lower rate, wouldn't it be better for you to come to me? That's why I said it, nothing else."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ആ മനസ്സിലായി.",
+      "english": "Ah, I understand."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ വേറെ ഒന്നുമല്ല.",
+      "english": "Ah, nothing else."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "അത് നിങ്ങൾക്ക് ഇത് ലോൺ എമൗണ്ടിന്റെ കാര്യം പറഞ്ഞിരുന്നില്ല അത്രയും ഉണ്ടാവില്ലെന്ന്.",
+      "english": "Also, you hadn't discussed the loan amount, saying it wouldn't be that much."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ലോൺ എമൗണ്ടിന്റെ കാര്യം പറഞ്ഞില്ല സാർ എമൗണ്ട് ഒന്നും പറഞ്ഞിട്ടുണ്ടായില്ല എന്നോട് ജസ്റ്റ് സാർ ഒരു വീടും പ്ലോട്ടും വാങ്ങിക്കാൻ നോക്കുന്നുണ്ടായിരുന്നു ഓൾറെഡി ആക്സിസ് ബാങ്ക് ആയിട്ട് കൊടുത്തിട്ടുണ്ട് അവർ ഇൻട്രസ്റ്റ് ചെയ്യാനൊക്കെ പറഞ്ഞിട്ടില്ല ഡോക്യുമെന്റ്സ് സബ്മിറ്റ് ചെയ്തിട്ടുള്ളൂ എന്നാണ് പറഞ്ഞത്.",
+      "english": "We didn't talk about the loan amount, sir. You didn't mention any amount to me. You just said you were looking to buy a house and plot, already applied with Axis Bank, and they hadn't mentioned the interest rate yet, only documents were submitted."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഞാൻ ഒന്ന് ചോദിച്ചിട്ട് പറയാം ഇൻട്രസ്റ്റ് റേറ്റ് അല്ലേ അവർ ഉണ്ടാക്കിയിട്ടില്ല അത് സിസ്റ്റത്തിൽ ആക്കിയിട്ടില്ല എന്ന് പറഞ്ഞു കുറച്ചു ഡോക്യുമെന്റ്സും കൂടി എനിക്ക് കൊടുക്കാനുണ്ട്.",
+      "english": "Let me ask and tell you. Interest rate, right? They haven't generated it, said it's not put into the system yet. I still have a few more documents to submit."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "അതെ ഓക്കേ സാർ ഇപ്പോൾ എത്ര രൂപയുടെയാണ് നോക്കണേ എമൗണ്ട് എത്രയാ നോക്കണേ?",
+      "english": "Yes, okay sir. How much amount are you looking for right now? What is the amount?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "എനിക്ക് ഇപ്പോൾ 38 ആണ് ആ ലാൻഡ് ആ പ്രോപ്പർട്ടിക്ക് പറയുന്നത്.",
+      "english": "For me, right now, they are asking 38 for that land, that property."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ ആ അപ്പൊ സാർ ലോൺ കോൺട്രിബ്യൂഷൻ എത്രയായിരിക്കും സാറിന്റെ കയ്യിൽ എത്രയുണ്ടാവും?",
+      "english": "Ah okay, so what will be your loan contribution sir? How much do you have on hand?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "കയ്യിൽ എന്ന് വെച്ചാൽ നമ്മൾ ഇപ്പോൾ പ്ലോട്ട് വാങ്ങിക്കുകയാണെന്നുണ്ടെങ്കിൽ ബാങ്ക് സൈഡിൽ നിന്ന് ഫുൾ എമൗണ്ടും തരില്ലല്ലോ 80 80 ടു 85% അല്ലേ തരുകയുള്ളൂ. ഒരു അഞ്ച് രൂപ അടുത്ത് ഉണ്ടാവും.",
+      "english": "In hand means, if we are buying a plot, the bank won't provide the full amount anyway, right? They will only give 80 to 85%, right? I will have around 5 lakhs."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "അതെ ഓക്കേ ആ സാർ ഒന്ന് ചെക്ക് ചെയ്തിട്ട് പറയാമോ അങ്ങനെയാണെങ്കിൽ നമുക്ക്",
+      "english": "Yes, okay. Sir, could you check and tell me? In that case, we..."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഞാൻ പുള്ളിനെ വിളിച്ചു കഴിഞ്ഞിട്ട് അങ്ങോട്ട് കോൺടാക്ട് ചെയ്യാം ഇൻട്രസ്റ്റ് റേറ്റ് എത്രയാണെന്ന് അല്ലേ?",
+      "english": "I will call him and then contact you. About how much the interest rate is, right?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഇല്ല സാർ അവർക്ക് ഷെയർ ചെയ്ത ഡോക്യുമെന്റ്സ് എനിക്ക് ഒന്ന് ഷെയർ ചെയ്യാമോ അപ്പൊ എനിക്ക് ഇവിടുന്ന് കാൽക്കുലേറ്റ് ചെയ്യാൻ പറ്റും.",
+      "english": "No sir, could you share with me the documents you shared with them? Then I can calculate it from here."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഞാൻ തന്നിരുന്നില്ലേ ഇത്?",
+      "english": "Didn't I give this to you?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഇല്ല എനിക്ക് അയച്ചിട്ടില്ല സാർ എന്നോട് പറഞ്ഞത് അവരോട് ചോദിച്ചിട്ട് പറയാം എന്നാണ് പറഞ്ഞിരുന്നത് അതുകാരണം ഞാൻ സാറിനെ ഒന്ന് ഫോഴ്സ് ചെയ്തില്ല സാർ നോക്കിയിട്ട് അയച്ചാൽ മതി.",
+      "english": "No, you haven't sent it to me. Sir, you told me you'd ask them and let me know. That's why I didn't push you. Sir, you can check and send it."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ആ ഓക്കേ ഓക്കേ.",
+      "english": "Ah, okay okay."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "അങ്ങനെയാണെന്നുണ്ടെങ്കിൽ നമുക്ക് ഇവിടുന്ന് ചെക്ക് ചെയ്യാൻ പറ്റും അപ്പൊ സാറിന്റെ എലിജിബിലിറ്റി എനിക്ക് ഇവിടുന്ന് കാൽക്കുലേറ്റ് ചെയ്യാം അപ്പൊ അവരായിട്ട് കമ്പയർ ചെയ്തിട്ട് സാറിന് ഒരു ബെറ്റർ ഓപ്ഷൻ ചൂസ് ചെയ്യാലോ.",
+      "english": "If that's the case, we can check from here. Then I can calculate your eligibility from here. So after comparing with them, you can choose a better option."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ആ അത് എന്ന് വെച്ചാൽ ആ പ്രോപ്പർട്ടി ഓൾറെഡി അവരുടെ ബാങ്കിൽ തന്നെയാണ് ഉള്ളത് ഓൾറെഡി ലോണിൽ ആണത് അപ്പൊ അത് ടേക്ക് ഓവർ ചെയ്തെടുക്കാൻ വേണ്ടിയിട്ടാണ്.",
+      "english": "Ah, that means that property is already with their bank itself. It is already on a loan, so it is to take it over."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഓ എന്ന് വെച്ചാൽ ഓൾറെഡി ആ ലോണിൽ ഇരിക്കുന്ന ആ മനസ്സിലായി ഓക്കേ.",
+      "english": "Oh, meaning it's already under that loan... Ah, I understand, okay."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "അപ്പൊ അതിന്റെ തന്നെയാണെങ്കിൽ കുറച്ചുകൂടി എളുപ്പമായിരിക്കും ഉള്ളത് എന്നുള്ള രീതിയിലാണ് നിൽക്കുന്നത്. എന്ന് വെച്ചാൽ ആ പ്രോപ്പർട്ടി വേറ ഒരാളുടെ പേരിൽ ഇരിക്കുന്നതാണ് അയാൾക്ക് അവിടെ ലോൺ ഉണ്ട് ഓൾറെഡി ആ പ്രോപ്പർട്ടിയിൽ.",
+      "english": "So if it's with the same bank, it might be a bit easier, that's how it stands. Meaning that property is in someone else's name, and he already has a loan on that property there."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഓൾറെഡി ലോണിലാണ് അവിടെ തന്നെ. ഓക്കേ അത് ടേക്ക് ഓവർ ചെയ്ത് സാറിന്റെ പേരിലേക്ക് ആക്കാൻ നോക്കുന്നതാണല്ലേ?",
+      "english": "It's already on loan there itself. Okay, so you are looking to take it over and transfer it to your name, right?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "അതെ അതെ അതെ അതെ.",
+      "english": "Yes, yes, yes, yes."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ ഇത് വേണമെങ്കിൽ നമുക്ക് ചെയ്തു തരാൻ പറ്റും നമുക്ക് അപ്പൊ എക്സ്ട്രാ ഒരു ടോപ്പ് അപ്പ് പ്ലസ് ഓപ്ഷൻ വേണമെന്നുണ്ടെങ്കിൽ സാറിന് ഒരു എക്സ്ട്രാ എമൗണ്ട് ആവശ്യമുണ്ടെന്നുണ്ടെങ്കിൽ നമുക്ക് ആ ടേക്ക് ഓവർ എടുത്ത് അതിന്റെ മേലെ ഒരു ടോപ്പ് അപ്പ് കൂടി ചെയ്തു തരാൻ പറ്റും. അത് സാറിന് ഒരു എക്സ്ട്രാ എമൗണ്ട് കിട്ടും സാർ നോക്കിയിട്ട് പറഞ്ഞാൽ മതി.",
+      "english": "Ah, if needed we can do this for you. If you need an extra top-up option, if you require an extra amount, we can take over and do a top-up on top of it. You will get an extra amount from that, sir, you can check and let me know."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഞാൻ അത് ഏകദേശം ഒരു ഇതുവരെ എത്തി അതുകൊണ്ട് ഞാൻ പിന്നെ വിളിക്കാതിരുന്നത് ഇത് കൊടുക്കട്ടെ. ആ ടോപ്പ് അപ്പ് എന്ന് പറഞ്ഞ ഓപ്ഷൻ ഉണ്ടല്ലേ?",
+      "english": "I had almost reached a point with them, that's why I didn't call later. Let me submit this. There is an option called top-up, right?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ടോപ്പ് അപ്പ് എന്ന് വെച്ചിട്ടുണ്ടെങ്കിൽ ഇപ്പോൾ സാറിന് ഇപ്പോൾ 30 ലാക്സ് 38 ലാക്സ് അല്ലേ പറഞ്ഞേ അതിനകത്ത് സാറിന് ഇപ്പോൾ ഒരു 38",
+      "english": "Top-up means, right now for you, didn't you say 30 lakhs, 38 lakhs? In that, for you now a 38..."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "അത് എന്തോ എത്ര പെർസെന്റേജ് അല്ല 90% എത്രയാണ് നമുക്ക് കിട്ടുന്നത്.",
+      "english": "What percentage is that? 90% or how much do we get?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "അത് 80% ആണ് ഞങ്ങളുടെ ബാങ്ക് സൈഡിൽ നിന്ന് കൊടുക്കുന്നത് 80 മറ്റ് ബാങ്കിൽ എത്രയാണെന്ന് എനിക്ക് അറിയില്ല ചിലപ്പോൾ അത് സാറിന്റെ എലിജിബിലിറ്റി അനുസരിച്ച് വേരിയേഷൻ വരും ഇപ്പോൾ സാർ നല്ല ഹൈയിൽ എലിജിബിൾ ആണെന്നുണ്ടെങ്കിൽ ചിലപ്പോൾ അതിന് ചിലപ്പോൾ കൂടാം അതല്ലെങ്കിൽ കുറയാം അത് കറക്റ്റ് പറയാൻ പറ്റില്ല എലിജിബിലിറ്റി കാൽക്കുലേറ്റ് ചെയ്താൽ അത്രയും പറയാൻ പറ്റുകയുള്ളൂ. ആ പിന്നെ നമ്മുടെ സൈഡിൽ നിന്ന് വാല്യുവേറ്റർ ഒക്കെ വരും ബാങ്ക് സൈഡിൽ നിന്നൊക്കെ അത് വാല്യുവേറ്റ് ചെയ്ത് ആ പ്ലോട്ടിന്റെ വാല്യുവേഷൻ കറക്റ്റ് ചെയ്തൊക്കെ ഉണ്ടെങ്കിൽ നമുക്ക് അതൊരു കൺഫർമേഷൻ പറയാൻ പറ്റും.",
+      "english": "It is 80% provided from our bank's side, 80. I don't know how much it is in other banks. Sometimes it varies according to your eligibility. If you are highly eligible, it might increase or decrease. I can't tell exactly; we can only say once eligibility is calculated. Ah, and then a valuator will come from our side, from the bank's side, to evaluate and fix the exact plot valuation, then we can give a confirmation."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "വാല്യുവേറ്റ് ചെയ്ത് വെച്ചേക്കുന്നതാണ് പിന്നെ.",
+      "english": "It has been evaluated already."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "സാർ അവിടെ ഫീസ് അടച്ചായിരുന്നോ അപ്പൊ?",
+      "english": "Sir, did you pay the fee there then?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഇല്ല ഇല്ല ഞാൻ ചെയ്തിട്ടില്ല അത് ഫയൽ ആക്കിയിട്ടില്ല കുറച്ചു ഡോക്യുമെന്റ്സും കൂടി കൊടുക്കാനുണ്ട് അപ്ലിക്കേഷന്റെ കുറച്ച് ഡീറ്റെയിൽസ് വെച്ചിട്ട് ഞാൻ കൊടുത്തിട്ടില്ല.",
+      "english": "No, no, I haven't done it. It hasn't been made into a file yet. I have a few more documents to give regarding the application details, I haven't submitted them."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ആ ആ ഓക്കേ സാർ ഒന്ന് ചോദിച്ചിട്ട് പറഞ്ഞാൽ മതി.",
+      "english": "Ah okay sir, you can ask and let me know."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഇൻട്രസ്റ്റ് റേറ്റ് ചോദിച്ചിട്ട് ഞാൻ പറയാം.",
+      "english": "I will ask about the interest rate and let you know."
+    },
+    {
+      "speaker": "Speaker 1",
+      "malayalam": "ഓക്കേ സാർ ഓക്കേ. താങ്ക്യൂ.",
+      "english": "Okay sir, okay. Thank you."
+    },
+    {
+      "speaker": "Speaker 2",
+      "malayalam": "ഓക്കേ സാർ.",
+      "english": "Okay sir."
+    }
+  ]
+}
